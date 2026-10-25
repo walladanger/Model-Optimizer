@@ -58,13 +58,15 @@ pip install -e .[dev]
 
 ## Screenshots
 
-<!-- SCREENSHOT PLACEHOLDER: hero image of <what to capture> -->
+<!-- SCREENSHOT PLACEHOLDER: hero image of terminal output of a PTQ run from examples/hf_ptq -->
 _Screenshot coming soon._
 
 ## Roadmap
 
-See issues.
+See issues and [Changelog](CHANGELOG.rst).
 
 ## License & credits
 
 Licensed under the [Apache License 2.0](LICENSE).
+
+Based on NVIDIA Model Optimizer (https://github.com/NVIDIA/Model-Optimizer).
